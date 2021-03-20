@@ -19,6 +19,9 @@
 // Greeting shell during startup 
 void welcome() 
 {    
+
+
+    printf("Sohitha's Commit");
         //clear the screen
 	clear();
         //To print the Welcome Screen 
